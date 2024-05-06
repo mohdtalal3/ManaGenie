@@ -1,0 +1,7 @@
+PyPDF2
+sentence_transformers
+langchain
+tiktoken
+faiss-gpu
+streamlit
+CMAKE_ARGS="-DLLAMA_CUBLAS=on" FORCE_CMAKE=1 llama-cpp-pythons
