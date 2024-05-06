@@ -8,6 +8,7 @@ This project is a chatbot implemented in Python using various libraries such as 
 2. **Chat with Bot**: Users can engage in conversation with the chatbot, utilizing either the uploaded PDFs or a combination of uploaded and pre-existing data.
 
 Additionally, the chatbot employs LangChain to prompt for the next dialogue in the conversation, ensuring coherence and context continuity.
+
 ![image](https://github.com/mohdtalal3/ManaGenie/assets/139225415/17369848-0157-4508-b1b0-0476fe6a0ce8)
 
 ## Features
