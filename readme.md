@@ -32,7 +32,7 @@ Additionally, the chatbot employs LangChain to prompt for the next dialogue in t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mohdtalal3/Chatbot.git
+   git clone https://github.com/mohdtalal3/ManaGenie.git
 
 2. Install the required dependencies:    
     ```bash
