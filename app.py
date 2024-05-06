@@ -159,7 +159,7 @@ def load_from_vectordb(value):
 def main():
 
 
-    st.set_page_config(page_title="Chat with your PDFs",
+    st.set_page_config(page_title="ManaGenie",
                     page_icon=":🤖:")
     st.write(css, unsafe_allow_html=True)
 
@@ -168,7 +168,7 @@ def main():
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = []
 
-    st.header("Chat with multiple PDFs :🤖:")
+    st.header("ManaGenie : Your PDF Multitasking Sidekick :🤖:")
     user_question = st.text_input("Ask a question about your documents:")
 
     if user_question:
