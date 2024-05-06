@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a chatbot implemented in Python using various libraries such as RAG (Retrieval Augmented Generation), LangChain, LlamaCPP, Faiss, Transformers, PyPDF2, and Streamlit. The chatbot provides two main features:
+This project is a chatbot implemented in Python using technique such as RAG (Retrieval Augmented Generation) & various libraries such as LangChain, LlamaCPP, Faiss, Transformers, PyPDF2, and Streamlit. The chatbot provides two main features:
 
 1. **Upload New PDFs**: Users can upload PDF documents, which the chatbot then processes and stores for later use.
 2. **Chat with Bot**: Users can engage in conversation with the chatbot, utilizing either the uploaded PDFs or a combination of uploaded and pre-existing data.
