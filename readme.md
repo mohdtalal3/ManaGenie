@@ -1,4 +1,4 @@
-# PDF Chatbot 
+# ManaGenie 
 
 ## Overview
 
