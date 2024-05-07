@@ -47,7 +47,7 @@ def prepare_docs(pdf_docs):
             "title": doc["title"]
         })
 
-    return content, metadata
+    return content, metadata 
 
 
 def get_text_chunks(content, metadata):
