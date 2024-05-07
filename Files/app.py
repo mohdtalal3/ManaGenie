@@ -1,5 +1,5 @@
 import streamlit as st
-import os
+import os 
 from htmlTemplate import css, bot_template, user_template
 import PyPDF2
 from langchain.text_splitter import RecursiveCharacterTextSplitter
