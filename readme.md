@@ -59,4 +59,4 @@ Additionally, the chatbot employs LangChain to prompt for the next dialogue in t
 - `Rag_note.ipynb`: Contains the code of the main strucutre of chat bot .
 - `colab_run.ipynb`: Contains the code to run using colab .
 - `Files`: Contains the files to run locally or to run using colab .
-- `htmlTemplate.py`: Contains the code for the streamlt frontend .
+- `htmlTemplate.py`: Contains the code for the streamlt frontend  .
