@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 from htmlTemplate import css, bot_template, user_template
-import PyPDF2
+import PyPDF2 
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.llms import LlamaCpp
 from langchain.embeddings import HuggingFaceEmbeddings 
