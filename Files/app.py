@@ -349,7 +349,7 @@ def main_page():
 
 
 
-    # Display the button in the middle column
+  
     with col2:
         if st.button("Login"):
             st.session_state.main_page1 = True
@@ -357,11 +357,11 @@ def main_page():
             st.rerun()
 
 def unlock_page():
-    i = "lock.gif"  # Assuming lock.gif is the path to your image
-    image_size = 500  # Set the desired size of the image
+    i = "lock.gif"  
+    image_size = 500  
 
-    # Centering the image using columns
-    col1, col2, col3 = st.columns([1, 2, 1])  # Adjust column widths as needed
+   
+    col1, col2, col3 = st.columns([1, 2, 1])  
     with col2:
         st.image(i, width=image_size)
         time.sleep(2.3)
