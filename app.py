@@ -7,7 +7,7 @@ import json
 conn = sqlite3.connect('users.db')
 c = conn.cursor()
 
-# Create table if not exist
+# Create table if not exists
 c.execute('''CREATE TABLE IF NOT EXISTS users
              (username TEXT PRIMARY KEY, password TEXT, array_data TEXT)''')
 
